@@ -11,9 +11,9 @@
 
   <h2 align="center">eduweb - Education Website</h2>
 
-  EduWeb is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Unithink is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/eduweb/"><strong>➥ Live Demo</strong></a>
+  <a href="https://unithink.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Unithink Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -36,13 +36,13 @@ To run **EduWeb** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+sudo git clone https://github.com/Dev-Harsh0218/UniThink-study-abroad.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduweb.git
+git clone https://github.com/Dev-Harsh0218/UniThink-study-abroad.git
 ```
 
 ### Contact
