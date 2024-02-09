@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">eduweb - Education Website</h2>
+  <h2 align="center">Unithink - Education Website</h2>
 
   Unithink is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
